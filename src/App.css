@@ -1,0 +1,30 @@
+.habit{
+  margin: 10px;
+  
+}
+.lol{
+  margin: 8px;
+  font-size: 20px ;
+  border-radius: 5px;
+}
+.habitlist{
+  margin: 30%;
+  margin-top: 100px;
+  border: 2px solid rgb(13, 13, 14);
+  border-radius: 40px;
+  height: 500px;
+  width: 40%;
+  text-align: center;
+  background: conic-gradient( rgb(3, 213, 255) , rgb(54, 146, 0) ,rgb(223, 3, 3),rgb(173, 173, 13));
+}
+.btn{
+  font-size: 20px;
+  border-radius: 5px;
+}
+.but{
+  background: transparent;
+  border: none;
+}
+.li{
+  text-align: left;
+}
